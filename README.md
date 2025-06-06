@@ -79,7 +79,7 @@ git config --list
   ```
 - For future direct pushes (after first push):
   ```bash
-  git push -u origin main
+  git push -u origin main (From next time when you want to push and don’t want to change the repo ,you can directly user “**git push**“ so for that initialization we have to use git push -u origin main))
   ```
 
 ## 🏗️ Initialize Local Repository
